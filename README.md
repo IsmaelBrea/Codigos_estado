@@ -77,6 +77,8 @@ Referencia: https://developer.mozilla.org/es/docs/Web/HTTP/Reference/Status
 
 ---
 
+<br>
+
 ## SIP (Session Initation Protocol)
 
 ## 1xx – Informativos
