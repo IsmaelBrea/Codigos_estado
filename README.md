@@ -1,6 +1,6 @@
 # Codigos_estado
 
-## HTTP – Códigos de estado
+## HTTP (Hypertext Transfer Protocol)
 Referencia: https://developer.mozilla.org/es/docs/Web/HTTP/Reference/Status
 
 ## 1xx – Informativos
